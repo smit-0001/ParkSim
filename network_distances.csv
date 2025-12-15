@@ -1,0 +1,9 @@
+OriginLotID,DestinationTerminal,TransitMode,TransitTimeMin,WalkingDistanceM
+Blue,T4,Walk,5,400
+Blue,T5,AirTrain,15,0
+Yellow,T5,Walk,5,350
+Yellow,T4,Walk,8,650
+Lot9,T4,AirTrain,20,0
+Lot9,T1,AirTrain,22,0
+OffAirport,T4,Shuttle,30,0
+OffAirport,T5,Shuttle,30,0

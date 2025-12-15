@@ -1,0 +1,7 @@
+LotID,AssociatedTerminals,TotalCapacity,BaseRate30Min,DailyMaxRate,LotType
+Blue,['T4'],2500,15,80,Terminal Garage
+Yellow,['T5'],2200,12,75,Terminal Garage
+Red,"['T1', 'T8']",6000,10,70,Terminal Garage
+Orange,['T7'],500,10,65,Terminal Garage
+Lot9,"['T1', 'T4', 'T5', 'T8']",4000,8,50,Long-Term
+OffAirport,['ALL'],5000,5,35,Private/Remote
